@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Moments Silver Bracelet with Heart Clasp",
+        "price": 350,
+        "image": "img/101.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Celestial Stars Bracelet",
+        "price": 300,
+        "image": "img/102.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sparkling Pavé Bars Bracelet",
+        "price": 410,
+        "image": "img/103.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Pandora Moments Heart T-Bar Snake Chain Bracelet",
+        "price": 400,
+        "image": "img/104.jpg"
+    }
+]
